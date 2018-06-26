@@ -13,11 +13,6 @@ npm i
 
 ```
 
-``` JQ
-npm install jquery --save -dev
-
-```
-
 
 ## 运行本示例
 
